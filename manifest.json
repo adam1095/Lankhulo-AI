@@ -1,11 +1,11 @@
 
 {
-  "id": "/lankhulo-ai/",
+  "id": "/Lankhulo-AI/",
   "name": "Lankhulo AI by Adam Gomani",
   "short_name": "Lankhulo AI",
-  "description": "Your intelligent AI assistant, created by Adam Gomani.",
-  "start_url": "/lankhulo-ai/",
-  "scope": "/lankhulo-ai/",
+  "description": "Your intelligent AI assistant.",
+  "start_url": "/Lankhulo-AI/",
+  "scope": "/Lankhulo-AI/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#172554",
